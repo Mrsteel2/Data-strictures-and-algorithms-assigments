@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/StackAssignment/StackAssignment.csproj" />
+    <Project Path="src/TreeTraversal/TreeTraversal.csproj" />
   </Folder>
 </Solution>
